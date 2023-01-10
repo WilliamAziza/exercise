@@ -1,0 +1,80 @@
+.way{
+	color: blue;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 40px;
+}
+
+.schedule{
+	color: black;
+}
+.standard{
+	text-align: center;
+	margin-top: 40px;
+}
+.Butt{
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	text-align: center;
+	border: none;
+	height: 40px;
+	width: 150px;
+	margin-left: 500px;
+}
+.Trusted{
+	background-color: black;
+	margin-top: 30px;
+	height: 200px;
+	margin-bottom: 30px;
+}
+.Trusted-text{
+	color: white;
+	text-align: center;
+	padding-top: 30px;
+	margin-bottom: 30px;
+}
+.Sales{
+	font-weight: bold;
+	font-size: 20px;
+	color: blue;
+	margin-left: 40px;
+}
+
+.Butte{
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	text-align: center;	
+	border: none;
+	height: 40px;
+	width: 150px;
+	margin-left: 500px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.easy{
+  font-weight: bold;
+  font-size: 30px;
+  text-align: left;
+}
+.ahead{
+  color: blue;
+}
+.Select{
+  background-color: white;
+  border-radius: 5px;
+  width: 200px;
+  height: 30px;
+  margin-top: 20px;
+}
+.headers{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.footer{
+  margin-top: 100px;
+}
